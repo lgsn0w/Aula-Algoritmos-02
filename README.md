@@ -98,7 +98,8 @@ Aqui o `para` é perfeito porque a tabuada sempre vai de 1 a 10 — número fixo
 
 ## Material de Apoio
 
-- **`topico1_para.pptx`** — Slides da aula sobre a estrutura `para`.
+- **[`topico1_para.pdf`](topico1_para.pdf)** — Slides da aula sobre a estrutura `para` (PDF).
+- **`topico1_para.pptx`** — Versão editável dos slides (PowerPoint).
 
 ## Como Executar
 
